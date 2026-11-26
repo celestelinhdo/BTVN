@@ -49,7 +49,7 @@
       </section>
 <section class="panel">
         <h2>Liên hệ ban tổ chức</h2>
-        <p>Người phụ trách: Nguyễn Minh Anh</p>
+        <p>Người phụ trách: Đỗ Hoàng Linh</p>
         <p>
           Email:
           <a href="mailto:dsc.dav@gmail.com">
